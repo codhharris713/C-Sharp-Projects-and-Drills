@@ -1,0 +1,14 @@
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.AssemblyInfo.cs
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\bin\Debug\netcoreapp3.1\classMethodvoid.exe
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\bin\Debug\netcoreapp3.1\classMethodvoid.deps.json
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\bin\Debug\netcoreapp3.1\classMethodvoid.runtimeconfig.json
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\bin\Debug\netcoreapp3.1\classMethodvoid.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\bin\Debug\netcoreapp3.1\classMethodvoid.dll
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\bin\Debug\netcoreapp3.1\classMethodvoid.pdb
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.dll
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.pdb
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.genruntimeconfig.cache
+C:\Users\Cody\source\repos\classMethodvoid\classMethodvoid\obj\Debug\netcoreapp3.1\classMethodvoid.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Cody\source\repos\abstractClass\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.exe
+C:\Users\Cody\source\repos\abstractClass\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.deps.json
+C:\Users\Cody\source\repos\abstractClass\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.runtimeconfig.json
+C:\Users\Cody\source\repos\abstractClass\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\abstractClass\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.dll
+C:\Users\Cody\source\repos\abstractClass\abstractClass\bin\Debug\netcoreapp3.1\abstractClass.pdb
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.csproj.AssemblyReference.cache
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.AssemblyInfo.cs
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.dll
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.pdb
+C:\Users\Cody\source\repos\abstractClass\abstractClass\obj\Debug\netcoreapp3.1\abstractClass.genruntimeconfig.cache
