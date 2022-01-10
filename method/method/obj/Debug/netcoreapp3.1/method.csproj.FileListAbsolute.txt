@@ -1,0 +1,13 @@
+C:\Users\Cody\source\repos\method\method\bin\Debug\netcoreapp3.1\method.exe
+C:\Users\Cody\source\repos\method\method\bin\Debug\netcoreapp3.1\method.deps.json
+C:\Users\Cody\source\repos\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.json
+C:\Users\Cody\source\repos\method\method\bin\Debug\netcoreapp3.1\method.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\method\method\bin\Debug\netcoreapp3.1\method.dll
+C:\Users\Cody\source\repos\method\method\bin\Debug\netcoreapp3.1\method.pdb
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.AssemblyInfo.cs
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.dll
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.pdb
+C:\Users\Cody\source\repos\method\method\obj\Debug\netcoreapp3.1\method.genruntimeconfig.cache
