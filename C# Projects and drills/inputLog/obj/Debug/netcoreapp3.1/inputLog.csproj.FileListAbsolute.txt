@@ -1,0 +1,13 @@
+C:\Users\Cody\source\repos\inputLog\bin\Debug\netcoreapp3.1\inputLog.exe
+C:\Users\Cody\source\repos\inputLog\bin\Debug\netcoreapp3.1\inputLog.deps.json
+C:\Users\Cody\source\repos\inputLog\bin\Debug\netcoreapp3.1\inputLog.runtimeconfig.json
+C:\Users\Cody\source\repos\inputLog\bin\Debug\netcoreapp3.1\inputLog.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\inputLog\bin\Debug\netcoreapp3.1\inputLog.dll
+C:\Users\Cody\source\repos\inputLog\bin\Debug\netcoreapp3.1\inputLog.pdb
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.AssemblyInfo.cs
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.dll
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.pdb
+C:\Users\Cody\source\repos\inputLog\obj\Debug\netcoreapp3.1\inputLog.genruntimeconfig.cache

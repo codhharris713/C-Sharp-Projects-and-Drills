@@ -1,0 +1,12 @@
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Users\Cody\source\repos\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.pdb

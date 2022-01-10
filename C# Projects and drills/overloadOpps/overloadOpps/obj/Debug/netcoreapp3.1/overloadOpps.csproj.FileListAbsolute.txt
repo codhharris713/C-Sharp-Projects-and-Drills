@@ -1,0 +1,14 @@
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\bin\Debug\netcoreapp3.1\overloadOpps.exe
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\bin\Debug\netcoreapp3.1\overloadOpps.deps.json
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\bin\Debug\netcoreapp3.1\overloadOpps.runtimeconfig.json
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\bin\Debug\netcoreapp3.1\overloadOpps.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\bin\Debug\netcoreapp3.1\overloadOpps.dll
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\bin\Debug\netcoreapp3.1\overloadOpps.pdb
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.csproj.AssemblyReference.cache
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.AssemblyInfo.cs
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.dll
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.pdb
+C:\Users\Cody\source\repos\overloadOpps\overloadOpps\obj\Debug\netcoreapp3.1\overloadOpps.genruntimeconfig.cache
