@@ -1,0 +1,14 @@
+C:\Users\Cody\source\repos\personApp\personApp\bin\Debug\netcoreapp3.1\personApp.exe
+C:\Users\Cody\source\repos\personApp\personApp\bin\Debug\netcoreapp3.1\personApp.deps.json
+C:\Users\Cody\source\repos\personApp\personApp\bin\Debug\netcoreapp3.1\personApp.runtimeconfig.json
+C:\Users\Cody\source\repos\personApp\personApp\bin\Debug\netcoreapp3.1\personApp.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\personApp\personApp\bin\Debug\netcoreapp3.1\personApp.dll
+C:\Users\Cody\source\repos\personApp\personApp\bin\Debug\netcoreapp3.1\personApp.pdb
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.csproj.AssemblyReference.cache
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.AssemblyInfo.cs
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.dll
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.pdb
+C:\Users\Cody\source\repos\personApp\personApp\obj\Debug\netcoreapp3.1\personApp.genruntimeconfig.cache
