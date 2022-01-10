@@ -1,0 +1,14 @@
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\bin\Debug\netcoreapp3.1\incomeApp1.exe
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\bin\Debug\netcoreapp3.1\incomeApp1.deps.json
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\bin\Debug\netcoreapp3.1\incomeApp1.runtimeconfig.json
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\bin\Debug\netcoreapp3.1\incomeApp1.runtimeconfig.dev.json
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\bin\Debug\netcoreapp3.1\incomeApp1.dll
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\bin\Debug\netcoreapp3.1\incomeApp1.pdb
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.csproj.AssemblyReference.cache
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.AssemblyInfoInputs.cache
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.AssemblyInfo.cs
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.dll
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.pdb
+C:\Users\Cody\source\repos\incomeApp1\incomeApp1\obj\Debug\netcoreapp3.1\incomeApp1.genruntimeconfig.cache
