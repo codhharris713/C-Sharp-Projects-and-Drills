@@ -5,8 +5,6 @@
 <a href ="https://github.com/codhharris713/C-Sharp-Projects-and-Drills/tree/main/C%23%20Projects%20and%20drills/CarInsurance/CarInsurance"> Car Insurance </a>
 <br>
 <br>
-Car Insurance
-<br>
 This is an MVC web application to replicate a car insurance website. The user inputs their information, and a quote is calculated based on business logic. It also includes an admin page to view the quotes issued and the user information.
 <br>
 <br>
